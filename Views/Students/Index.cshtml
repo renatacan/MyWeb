@@ -1,0 +1,24 @@
+@model IEnumerable<MyWeb.Models.Student>
+<div class="row">
+    <h1 class="display-4">Daftar Students</h1>
+    <p>@ViewData["Date"]</p>
+    <div class="col=md-10 col-md-offset-2">
+        <table class="table table-striped">
+            <tr>
+                <th>Student ID</th>
+                <th>Student Name</th>
+                <th>Student Email</th>
+                <th>Student BirthDate</th>
+            </tr>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@item.StudentId</td>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.BirthDate</td>
+                </tr>
+            }
+        </table>
+    </div>
+</div>

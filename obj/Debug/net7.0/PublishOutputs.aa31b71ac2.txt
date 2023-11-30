@@ -1,0 +1,7 @@
+C:\Users\ASUS\KTI\myweb\bin\Debug\net7.0\publish\MyWeb.exe
+C:\Users\ASUS\KTI\myweb\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\ASUS\KTI\myweb\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\ASUS\KTI\myweb\bin\Debug\net7.0\publish\MyWeb.dll
+C:\Users\ASUS\KTI\myweb\bin\Debug\net7.0\publish\MyWeb.deps.json
+C:\Users\ASUS\KTI\myweb\bin\Debug\net7.0\publish\MyWeb.runtimeconfig.json
+C:\Users\ASUS\KTI\myweb\bin\Debug\net7.0\publish\MyWeb.pdb
